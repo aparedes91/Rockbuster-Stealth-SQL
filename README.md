@@ -6,3 +6,5 @@ The Rockbuster Stealth management team is interested in using its existing licen
 The purpose of this analysis is to answer a series of business questions and compile the findings into an easily digestible format to present to the Rockbuster Stealth Management Board.
 # Data Set
 The data set is provided by CareerFoundry and is available by clicking on this [link](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip).
+# Visualizations
+All visualizations can be found [here](https://public.tableau.com/app/profile/alex.paredes).
